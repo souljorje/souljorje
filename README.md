@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=souljorje&show_icons=true&count_private=true" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souljorje&hide=html" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=souljorje&show_icons=true&count_private=true&theme=dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souljorje&theme=dark&langs_count=3&layout=compact&hide=html" />
 </a>
 
 <!--
