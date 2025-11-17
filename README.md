@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+I'm a product-oriented frontend engineer bridging design, development and customer needs. Experienced in leading teams and building real-world products across domains – from digital to manufacturing.
+GitHub is not really my showcase gallery, more like a personal archive.
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=souljorje&show_icons=true&count_private=true&theme=dark" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souljorje&theme=dark&langs_count=3&layout=compact&hide=html" />
-</a>
+</a> -->
 
 <!--
 **souljorje/souljorje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
