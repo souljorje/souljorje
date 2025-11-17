@@ -1,7 +1,23 @@
 ### Hi there 👋
 
-I'm a product-oriented frontend engineer bridging design, development and customer needs. Experienced in leading teams and building real-world products across domains – from digital to manufacturing.
-GitHub is not really my showcase gallery, more like a personal archive.
+I'm a product-oriented frontend engineer bridging design, development and customer needs.  
+Experienced in leading teams and building real-world products across domains – from digital to manufacturing.  
+Coding since 2017.
+
+For the past 2.5 years I’ve applied my engineering & product mindset to tea manufacturing.  
+It’s been a fun and rewarding experiment — now it's time to return to tech.  
+Industry hasn't change much — my skills remained sharp, I simply caught up on AI stuff.
+
+#### Stack & Approach
+
+**Languages**: TypeScript, JavaScript (wish to learn some functional lang one day)  
+**Frameworks**: Vue > Solid > Svelte > React > Angular  
+**Tools**: Vite, Vitest, Playwright, Eslint  
+**Libs**: TanStack Query, SWR, Zod, D3  
+**Design**: Tailwind, Figma, Design Systems, Semantic Variables, UX-driven  
+**AI-stuff**: handy MCPs, local LLMs, AI-assisted > vibe-coded  
+**Approaches**: Spec-Driven, Domain-Driven, Declarative & Functional  
+**Methodologies**: Agile, Lean, Design thinking  
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=souljorje&show_icons=true&count_private=true&theme=dark" />
