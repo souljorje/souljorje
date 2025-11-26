@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a product-oriented frontend engineer bridging design, development and customer needs.  
+I'm a product-minded frontend engineer bridging design, development and customer needs.  
 Experienced in leading teams and building real-world products across domains – from digital to manufacturing.  
 Coding since 2017.
 
