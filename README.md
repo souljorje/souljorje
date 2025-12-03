@@ -10,7 +10,7 @@ Industry hasn't change much — my skills remained sharp, I simply caught up on 
 
 #### Stack & Approach
 
-**Languages**: TypeScript, JavaScript (+ Node)
+**Languages**: TypeScript, JavaScript (+ Node)  
 **Frameworks**: Vue > Solid > Svelte > React > Angular  
 **Tools**: Vite, Vitest, Playwright, Eslint  
 **Libs**: TanStack Query, SWR, Zod, D3  
