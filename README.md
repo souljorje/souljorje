@@ -18,8 +18,8 @@ Coding since 2017
 **Tools**: Bun, Vite, Vitest, Playwright, Eslint  
 **Libs**: TanStack Query, SWR, Zod, D3  
 **Design**: Tailwind, Figma, Design Systems, Semantic Variables, UX-driven  
-**AI-stuff**: local LLMs, complex orchestration, no Cursor
-**Approaches**: Spec-Driven, Domain-Driven, Declarative & Functional  
+**AI-stuff**: local LLMs, complex orchestration, no Cursor  
+**Approaches**: Domain-Driven, Spec-Driven, Declarative & Functional  
 **Methodologies**: Agile, Lean, Design thinking  
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
