@@ -1,21 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a product-minded frontend engineer bridging design, development and customer needs.  
+
 Experienced in leading teams and building real-world products across domains – from digital to manufacturing.  
-Coding since 2017.
+I'm strongest at frontend, comfortable with backend, fluent in Figma and communication.  
 
 For the past 2.5 years I’ve applied my engineering & product mindset to tea manufacturing.  
-It’s been a fun and rewarding experiment — now it's time to return to tech.  
-Industry hasn't change much — my skills remained sharp, I simply caught up on AI stuff.
+It’s been a fun and rewarding experiment — now I'm back in tech bringing real-world expereince with me.  
 
-#### Stack & Approach
+Coding since 2017  
+**Open for work 👷**
 
-**Languages**: TypeScript, JavaScript (+ Node)  
+### Stack & Approach
+
+**Languages**: TypeScript, JavaScript, Node
 **Frameworks**: Vue > Solid > Svelte > React > Angular  
-**Tools**: Vite, Vitest, Playwright, Eslint  
+**Tools**: Bun, Vite, Vitest, Playwright, Eslint  
 **Libs**: TanStack Query, SWR, Zod, D3  
 **Design**: Tailwind, Figma, Design Systems, Semantic Variables, UX-driven  
-**AI-stuff**: handy MCPs, local LLMs, AI-assisted > vibe-coded  
+**AI-stuff**: local LLMs, complex orchestration, no Cursor
 **Approaches**: Spec-Driven, Domain-Driven, Declarative & Functional  
 **Methodologies**: Agile, Lean, Design thinking  
 
