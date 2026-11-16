@@ -18,11 +18,11 @@ Coding since 2017, **open to work**
 ### Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="left" src="https://github-readme-stats-1-psi-silk.vercel.app/api?username=souljorje&show_icons=true&hide_rank=true&hide_title=true&theme=dark" />
+    <img align="left" src="https://github-readme-stats-1-psi-silk.vercel.app/api?username=souljorje&show_icons=true&hide_title=true&theme=dark" />
     <img align="left" src="https://github-readme-stats-1-psi-silk.vercel.app/api/top-langs?username=souljorje&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="left" src="https://github-readme-stats-1-psi-silk.vercel.app/api?username=souljorje&show_icons=true&hide_rank=true&custom_title=GitHub%20Statistics" />
+    <img align="left" src="https://github-readme-stats-1-psi-silk.vercel.app/api?username=souljorje&show_icons=true&custom_title=GitHub%20Statistics" />
     <img align="left" src="https://github-readme-stats-1-psi-silk.vercel.app/api/top-langs?username=souljorje&layout=compact" />
 </a>
